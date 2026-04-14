@@ -11,6 +11,6 @@ Como executar no Google Colab
 
 Clique no link abaixo:
 
-https://colab.research.google.com/drive/1MFKVeCApEUknGoFAzo3KbNsyNxj4NeVm#scrollTo=N2ZVPogcUAo_
+https://colab.research.google.com/github/Samuel-Unemat/processamento-imagens-avaliacao/blob/main/atividade.ipynb
 
 Clique em Executar Tudo
