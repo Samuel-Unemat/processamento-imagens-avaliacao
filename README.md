@@ -13,11 +13,4 @@ Clique no link abaixo:
 
 https://colab.research.google.com/drive/1MFKVeCApEUknGoFAzo3KbNsyNxj4NeVm#scrollTo=N2ZVPogcUAo_
 
----
-
-Instalação de bibliotecas
-
-Execute no início do notebook:
-
-```python
-!pip install opencv-python numpy matplotlib
+Clique em Executar Tudo
