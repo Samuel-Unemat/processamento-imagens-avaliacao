@@ -7,7 +7,7 @@ Atividade prática da disciplina de Processamento Digital de Imagens.
 
 ---
 
-🚀 Como executar no Google Colab
+Como executar no Google Colab
 
 Clique no link abaixo:
 
